@@ -24,10 +24,10 @@ pip install pandas requests lxml
 
 ## Running the Script
 1. To create the rent vs. income dataset:
-python rentvsincome.py
+   - python rentvsincome.py
 
 2. To create the CPI dataset:
-python cpi.py
+   - python cpi.py
 
 
 ## Using the Datasets
